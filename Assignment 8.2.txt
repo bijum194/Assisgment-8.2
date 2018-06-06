@@ -1,0 +1,12 @@
+Assignment 8.2
+
+1. Compute the measures of central tendency for salary and reduction which variable has highest center?
+
+
+2. Which measure of center is more appropriate for before and after?
+c(mean(before), median(before)
+67.36338 67.61824
+
+c(mean(after), median(after)
+66.85215 66.93608
+
